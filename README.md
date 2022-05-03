@@ -55,7 +55,7 @@ upon.
 
 [docker]: https://www.docker.com
 
-### Compile from source code (Recommanded if you're a developer)
+### Compile from source code (Recommended if you're a developer)
 
 The following tools are required in order to build the software from source code:
 
